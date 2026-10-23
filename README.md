@@ -51,7 +51,7 @@ Procedure for Load test:
 <b> Load Characteristics </b>:
 
 
- <img width="1870" height="847" alt="Screenshot 2026-10-16 155114" src="https://github.com/user-attachments/assets/9fdb5803-3a42-4ad3-aa29-fc6bce42706a" />
+ <img width="1000" height="1000" alt="Screenshot 2026-10-16 155114" src="https://github.com/user-attachments/assets/9fdb5803-3a42-4ad3-aa29-fc6bce42706a" />
 
  
 
