@@ -50,33 +50,35 @@ Procedure for Load test:
 
 <b> Load Characteristics </b>:
 
- <img width="1870" height="847" alt="Screenshot 2026-10-16 155114" src="https://github.com/user-attachments/assets/9fdb5803-3a42-4ad3-aa29-fc6bce42706a" /> 
+ <img width="1500" height="1000" alt="Screenshot 2026-10-16 155114" src="https://github.com/user-attachments/assets/9fdb5803-3a42-4ad3-aa29-fc6bce42706a" /> 
 
 <b> Tabulation & Calculations for Load Test: </b>
  
- <img width="1948" height="1716" alt="9378" src="https://github.com/user-attachments/assets/3b462cb2-1a26-48af-861e-8066b1fe871b" />
+ <img width="1500" height="1000" alt="9378" src="https://github.com/user-attachments/assets/3b462cb2-1a26-48af-861e-8066b1fe871b" />
 
 <b> Model graph for Load characteristics: </b>
 
 
- <img width="1621" height="490" alt="Screenshot 2026-10-23 221830" src="https://github.com/user-attachments/assets/6c5d9ea7-3df5-4156-9948-84a044897062" />
+ <img width="1500" height="1000" alt="Screenshot 2026-10-23 221830" src="https://github.com/user-attachments/assets/6c5d9ea7-3df5-4156-9948-84a044897062" />
 
 <b> Open circuit characteristics: </b>
 
- <img width="1570" height="747" alt="OCC " src="https://github.com/user-attachments/assets/96435f3d-73fc-40dd-9d0f-0a149a1971fc" />
+ <img width="1500" height="1000" alt="OCC " src="https://github.com/user-attachments/assets/96435f3d-73fc-40dd-9d0f-0a149a1971fc" />
 
 <b> Tabulation & Calculations for Open Circuit Test: </b>
 
- <img width="1964" height="1604" alt="9380" src="https://github.com/user-attachments/assets/a6acfbea-e2ec-40db-8b00-bbca566c839a" />
+ <img width="1500" height="1000" alt="9380" src="https://github.com/user-attachments/assets/a6acfbea-e2ec-40db-8b00-bbca566c839a" />
 
 <b> Model graph for Open Circuit Test: </b>
 
- <img width="756" height="368" alt="model-graph OCC" src="https://github.com/user-attachments/assets/c4b4d998-e371-428f-8e4c-314229d5f98e" />
+ <img width="1500" height="1000" alt="model-graph OCC" src="https://github.com/user-attachments/assets/c4b4d998-e371-428f-8e4c-314229d5f98e" />
 
 
 
 
   
+
+
 
  
 Result:
